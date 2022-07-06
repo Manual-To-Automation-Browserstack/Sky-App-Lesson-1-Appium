@@ -1,0 +1,18 @@
+{
+  "name": "sky-lesson-1-appium-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./firstTest.ts"
+  },
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+    "browserstack-local": "^1.0.2",
+    "wd": "^1.13.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "7.1.1"
+  }
+}
